@@ -1,4 +1,4 @@
-# hi 👋, I'm Peterson Santos 
+# Hi 👋, I'm Peterson Santos 
 🚀 **Software Developer | Full-Stack Web Applications**  
 💻 Java • Spring Boot • JavaScript • React  
 🇧🇷 Brazil
