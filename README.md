@@ -25,7 +25,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ## 📊 GitHub Stats 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PetersonSantos9K&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetersonSantos9K&layout=compact&theme=tokyonight" />
 </p>
 
