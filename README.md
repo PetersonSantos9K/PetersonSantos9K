@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:seuemail@email.com">
+  <a href="petersonsantos9k@gmail.com">
     <img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/petersonsantos9k">
@@ -33,15 +33,14 @@
 ---
 
 ## Estatísticas do GitHub
-
 <p align="center">
   <img
     height="150"
-    src="https://github-readme-stats.vercel.app/api?username=PetersonSantos9K&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
+    src="https://github-readme-stats-sage-seven-49.vercel.app/api?username=PetersonSantos9K&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
   />
   <img
     height="150"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetersonSantos9K&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats-sage-seven-49.vercel.app/api/top-langs/?username=PetersonSantos9K&layout=compact&theme=github_dark&hide_border=true"
   />
 </p>
 
