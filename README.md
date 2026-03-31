@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href=" https://mail.google.com/petersonsantos9k@gmail.com">
+  <a href="mailto:petersonsantos9k@gmail.com">
     <img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/petersonsantos9k">
