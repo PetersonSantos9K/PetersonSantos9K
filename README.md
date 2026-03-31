@@ -5,9 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="mailto:petersonsantos9k@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/petersonsantos9k">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
