@@ -28,9 +28,3 @@
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetersonSantos9K&layout=compact&theme=tokyonight" />
 </p>
-
---- 
-## 🚀 Philosophy 
-> _"Code is not just about solving problems. 
-> It's about building solutions that scale, last, and generate real value."_ 
----
