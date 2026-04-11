@@ -1,7 +1,7 @@
 <h1 align="center">Peterson Santos</h1>
 
 <p align="center">
-  Desenvolvedor de Software focado em aplicações web modernas, APIs e boas práticas de engenharia de software.
+  Desenvolvedor Full Stack em busca do primeiro estágio. Construindo projetos práticos com Spring Boot e Next.js — graduando em ADS pelo Senac.
 </p>
 
 <p align="center">
